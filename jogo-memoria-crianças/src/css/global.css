@@ -81,7 +81,7 @@ img {
 }
 
 .card {
-    padding: 1rem ;
+    padding: 0.20rem ;
     border-radius: 10px;
     transform: rotateY(180deg);
     transition: 0.25s;
